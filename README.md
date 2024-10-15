@@ -1,3 +1,8 @@
+原代码仓库：https://github.com/huangwl18/ReKep
+原代码是在issacsim23.1.0上运行的，现在没有这个版本下载了，
+OmniGibson已经适配到4.1.0了，项目地址:https://github.com/StanfordVL/OmniGibson,具体安装教程：https://behavior.stanford.edu/omnigibson-develop/getting_started/installation.html#troubleshooting
+
+
 ## ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
 
 #### [[Project Page]](https://rekep-robot.github.io/) [[Paper]](https://rekep-robot.github.io/rekep.pdf) [[Video]](https://youtu.be/2S8YhBdLdww)
